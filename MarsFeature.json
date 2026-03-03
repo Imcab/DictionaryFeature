@@ -1,18 +1,18 @@
 {
-  "featureId": "TemplateFeature",
-  "name": "Nombre de tu Feature",
+  "featureId": "DictionaryFeature",
+  "name": "Mars Dictionary Feature",
   "version": "1.0.0",
-  "groupId": "com.tu.equipo",
-  "author": "Tu Equipo",
-  "description": "Descripción de lo que hace tu nodo.",
+  "groupId": "com.stzteam.features.dictionary",
+  "author": "STZ-Robotics",
+  "description": "String Dictionary for all common or know texts.",
   "marsCoreRequired": ">=1.6.0",
   "mavenUrls": [
-    "https://TU-USUARIO.github.io/TU-REPO/maven/"
+    "https://imcab.github.io/DictionaryFeature/maven/"
   ],
   "javaDependencies": [
     {
-      "groupId": "com.tu.equipo",
-      "artifactId": "TemplateFeature",
+      "groupId": "com.stzteam.features.dictionary",
+      "artifactId": "DictionaryFeature",
       "version": "1.0.0"
     }
   ]
