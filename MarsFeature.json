@@ -7,12 +7,12 @@
 
   "category": "Utils",
   "description": "String Dictionary for all common or know texts.",
-  "iconUrl": "https://raw.githubusercontent.com/STZ-Robotics/DictionaryFeature/main/featureIcon/icon.png",
+  "iconUrl": "https://raw.githubusercontent.com/Imcab/DictionaryFeature/main/featureIcon/icon.png",
   "docsUrl": "",
 
   "wpilibYear": "2026",
   "marsCoreRequired": ">=1.6.0",
-  
+
   "mavenUrls": [
     "https://imcab.github.io/DictionaryFeature/maven/"
   ],
