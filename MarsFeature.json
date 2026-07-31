@@ -1,17 +1,14 @@
 {
   "featureId": "DictionaryFeature",
   "name": "Mars Dictionary Feature",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "groupId": "com.stzteam.features.dictionary",
   "author": "STZ-Robotics",
 
-  "category": "Utils",
   "description": "String Dictionary for all common or know texts.",
-  "iconUrl": "https://raw.githubusercontent.com/Imcab/DictionaryFeature/main/featureIcon/icon.png",
-  "docsUrl": "",
 
-  "wpilibYear": "2026",
   "marsCoreRequired": ">=1.6.0",
+  "forgeMiniRequired": ">=1.1.0",
 
   "mavenUrls": [
     "https://imcab.github.io/DictionaryFeature/maven/"
@@ -20,7 +17,7 @@
     {
       "groupId": "com.stzteam.features.dictionary",
       "artifactId": "DictionaryFeature",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "isProcessor": false
     }
   ]

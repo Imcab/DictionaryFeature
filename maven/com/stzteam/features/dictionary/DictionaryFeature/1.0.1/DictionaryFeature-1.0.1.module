@@ -3,7 +3,7 @@
   "component": {
     "group": "com.stzteam.features.dictionary",
     "module": "DictionaryFeature",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "DictionaryFeature-1.0.0.jar",
-          "url": "DictionaryFeature-1.0.0.jar",
-          "size": 5382,
-          "sha512": "cf35200f4b5a51464232865e126c1bdddbac463edafbc356571e4f6b23f3c2e553e4bddcfe0fdac60b5ad1d3d06c38b0b3d3d30e0a76fddad12d660456019a28",
-          "sha256": "446a4d5d78b7599841157e116cf9433abadce8e19077f2ef35e70ff6c340dbea",
-          "sha1": "2ec6d9fccb040500b03433daab7110810d7f8a22",
-          "md5": "82b46b9e1309246854caea8a2f265345"
+          "name": "DictionaryFeature-1.0.1.jar",
+          "url": "DictionaryFeature-1.0.1.jar",
+          "size": 5377,
+          "sha512": "ff729226470da3ec5e66b8bcb009cac4e1ac50e0bdd3ab7f115248be608115064a93275cc4d6d436773a9e7713279ff1a830fec2663dc0d227734b508fdbf513",
+          "sha256": "44cfff861e52feaa9535f418115b2138153482deeac204cc0a6d24dc0270804e",
+          "sha1": "9c067d8ce01bd870c4c56086f7b43010f6ae7c56",
+          "md5": "0ced7d0e39b20b3926db4d1d44aba95a"
         }
       ]
     },
@@ -175,26 +175,26 @@
           "group": "com.stzteam.forgemini",
           "module": "ForgeMini",
           "version": {
-            "requires": "1.1.1"
+            "requires": "[1.1.0,)"
           }
         },
         {
           "group": "com.stzteam.mars",
           "module": "Mars",
           "version": {
-            "requires": "1.6.0"
+            "requires": "[1.6.0,)"
           }
         }
       ],
       "files": [
         {
-          "name": "DictionaryFeature-1.0.0.jar",
-          "url": "DictionaryFeature-1.0.0.jar",
-          "size": 5382,
-          "sha512": "cf35200f4b5a51464232865e126c1bdddbac463edafbc356571e4f6b23f3c2e553e4bddcfe0fdac60b5ad1d3d06c38b0b3d3d30e0a76fddad12d660456019a28",
-          "sha256": "446a4d5d78b7599841157e116cf9433abadce8e19077f2ef35e70ff6c340dbea",
-          "sha1": "2ec6d9fccb040500b03433daab7110810d7f8a22",
-          "md5": "82b46b9e1309246854caea8a2f265345"
+          "name": "DictionaryFeature-1.0.1.jar",
+          "url": "DictionaryFeature-1.0.1.jar",
+          "size": 5377,
+          "sha512": "ff729226470da3ec5e66b8bcb009cac4e1ac50e0bdd3ab7f115248be608115064a93275cc4d6d436773a9e7713279ff1a830fec2663dc0d227734b508fdbf513",
+          "sha256": "44cfff861e52feaa9535f418115b2138153482deeac204cc0a6d24dc0270804e",
+          "sha1": "9c067d8ce01bd870c4c56086f7b43010f6ae7c56",
+          "md5": "0ced7d0e39b20b3926db4d1d44aba95a"
         }
       ]
     }
